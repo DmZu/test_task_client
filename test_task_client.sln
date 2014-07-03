@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_task_client", "test_task_client\test_task_client.csproj", "{622668BC-DE87-4434-9B85-63FFA7970567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_task_server", "test_task_server\test_task_server.csproj", "{ECEC0F2B-8524-4616-A4D8-3C22D3F4D5E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{622668BC-DE87-4434-9B85-63FFA7970567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622668BC-DE87-4434-9B85-63FFA7970567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622668BC-DE87-4434-9B85-63FFA7970567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622668BC-DE87-4434-9B85-63FFA7970567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECEC0F2B-8524-4616-A4D8-3C22D3F4D5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEC0F2B-8524-4616-A4D8-3C22D3F4D5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEC0F2B-8524-4616-A4D8-3C22D3F4D5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEC0F2B-8524-4616-A4D8-3C22D3F4D5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
